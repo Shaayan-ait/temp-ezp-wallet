@@ -1,0 +1,32 @@
+{
+  "name": "bnb-testnet-transfer",
+  "version": "1.0.0",
+  "description": "A Node.js script to send BNB on BSC Testnet with professional structure and documentation.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "eslint .",
+    "test": "echo \"No tests configured yet.\""
+  },
+  "keywords": [
+    "bnb",
+    "bsc-testnet",
+    "ethers.js",
+    "nodejs",
+    "blockchain"
+  ],
+  "author": "Shaayan <shayan.shaikh@aituniversal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
+
+
+
+
+ 
