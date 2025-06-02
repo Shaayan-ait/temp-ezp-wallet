@@ -50,7 +50,7 @@ A Node.js script to transfer BNB on Binance Smart Chain (BSC) Testnet.
 2. **Edit `.env` and provide values:**  
    ```env
    # .env
-   BSC_TESTNET_RPC_URL=https://data-seed-prebsc-1-s1.binance.org:8545/
+   BSC_TESTNET_RPC_URL=[https://data-seed-prebsc-1-s1.binance.org:8545/](https://bsc-testnet-dataseed.bnbchain.org/)
    PRIVATE_KEY=0xYOUR_PRIVATE_KEY_HERE
    RECIPIENT_ADDRESS=0xRECIPIENT_ADDRESS_HERE
    AMOUNT_IN_BNB=0.01
